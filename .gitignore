@@ -9,6 +9,14 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+# JAR
+*.jar
+
+# Build output
+out/
+
+
+
 # IntelliJ IDEA
 .idea/
 *.iws
